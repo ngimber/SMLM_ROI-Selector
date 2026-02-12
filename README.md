@@ -115,7 +115,7 @@ Adjust pixel size in nanometers to correctly scale ROI selections to your data.
 
 ## GUI Screenshot
 
-![ROI Selection Tool Interface](https://github.com/ngimber/SMLM_ROI-Selector/main/screenshots/gui.png)
+![ROI Selection Tool Interface](https://github.com/ngimber/SMLM_ROI-Selector/main/screenshots/gui.jpg)
 
 ## Data Privacy
 
@@ -179,5 +179,6 @@ For modifications or enhancements, edit the source code directly. Key sections:
   - SELECT/REMOVE operations
   - ThunderSTORM & SDmixer support
   - Combined/Separate save modes
+
 
 
