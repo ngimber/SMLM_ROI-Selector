@@ -115,7 +115,7 @@ Adjust pixel size in nanometers to correctly scale ROI selections to your data.
 
 ## GUI Screenshot
 
-![ROI Selection Tool Interface](screenshots/gui.tif)
+![ROI Selection Tool Interface](https://raw.githubusercontent.com/ngimber/SMLM-ROI-Selector/main/screenshots/gui.tif)
 
 ## Data Privacy
 
