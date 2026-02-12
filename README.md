@@ -113,7 +113,7 @@ Adjust pixel size in nanometers to correctly scale ROI selections to your data.
 1. **Combined**: All selected ROIs merged into single output file
 2. **Separate**: Each ROI exported to individual file (_ROI1, _ROI2, etc.)
 
-## GUI Screenshot
+## GUI
 
 ![ROI Selection Tool GUI](gui.jpg)
 
@@ -175,6 +175,7 @@ For modifications or enhancements, edit the source code directly. Key sections:
   - SELECT/REMOVE operations
   - ThunderSTORM & SDmixer support
   - Combined/Separate save modes
+
 
 
 
