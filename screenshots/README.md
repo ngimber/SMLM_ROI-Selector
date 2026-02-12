@@ -4,7 +4,7 @@
 
 **File: gui_screenshot.png**
 
-![ROI Selection Tool GUI](gui.tif)
+![ROI Selection Tool GUI](https://raw.githubusercontent.com/ngimber/SMLM-ROI-Selector/main/screenshots/gui.tif)
 
 This screenshot shows the main interface of the SMLM ROI Selector tool displaying;
 - The grayscale localization image in the center
