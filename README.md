@@ -131,10 +131,6 @@ ROI Selection Tool for Microscopy
 Developed by: Niclas Gimber, Charité
 ```
 
-## Contact
-
-For issues or questions: niclas.gimber@charite.de
-
 ## License
 
 This project is licensed under the MIT License - see LICENSE file for details.
@@ -179,6 +175,7 @@ For modifications or enhancements, edit the source code directly. Key sections:
   - SELECT/REMOVE operations
   - ThunderSTORM & SDmixer support
   - Combined/Separate save modes
+
 
 
 
