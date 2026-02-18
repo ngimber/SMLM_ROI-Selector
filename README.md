@@ -21,7 +21,11 @@ A Python-based GUI application for selecting and filtering regions of interest (
 - matplotlib
 - pandas
 
-## Installation
+## Download
+
+[Download SMLM ROI Selector for Windows (EXE)](https://github.com/ngimber/SMLM_ROI-Selector/releases/download/v1.0.2/SMLM_ROI-Selector_Windows_EXE.zip)
+
+## Optional: Installation via Python
 
 ```bash
 pip install -r requirements.txt
@@ -150,6 +154,7 @@ This is normal for >100,000 localizations. Processing time depends on file size 
 
 ### ROI selection not appearing
 Ensure you press **ENTER** after drawing to confirm ROI addition.
+
 
 
 
