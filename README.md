@@ -151,12 +151,6 @@ This is normal for >100,000 localizations. Processing time depends on file size 
 ### ROI selection not appearing
 Ensure you press **ENTER** after drawing to confirm ROI addition.
 
-## Development
-
-For modifications or enhancements, edit the source code directly. Key sections:
-- `initialize_selector()` - Drawing mode logic
-- `toggle_selector()` - ROI processing logic
-- `save_data()` - Output file format
 
 
 
