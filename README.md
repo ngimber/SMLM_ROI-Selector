@@ -117,19 +117,10 @@ Adjust pixel size in nanometers to correctly scale ROI selections to your data.
 
 ![ROI Selection Tool GUI](gui.jpg)
 
-## Data Privacy
-
-- Input files are **never modified** - only read
-- All processing creates new files with `_selected` or `_cropped` suffix
-- Original data always preserved
 
 ## Citation
 
-If you use this tool in your research, please cite:
-```
-ROI Selection Tool for Microscopy
-Developed by: Niclas Gimber, Charité
-```
+If you use this tool in your research, please cite this repository
 
 ## License
 
@@ -139,7 +130,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 - Built with: matplotlib, numpy, pandas
 - GUI Framework: tkinter (built-in)
-- Platform: Windows 7+, Linux, macOS
 - Data Format: CSV, TXT (tab/space-separated)
 
 ## Troubleshooting
@@ -168,13 +158,6 @@ For modifications or enhancements, edit the source code directly. Key sections:
 - `toggle_selector()` - ROI processing logic
 - `save_data()` - Output file format
 
-## Version History
-
-- **v1.0** (Feb 2026): Initial release
-  - Box, Polygon, Freehand drawing modes
-  - SELECT/REMOVE operations
-  - ThunderSTORM & SDmixer support
-  - Combined/Separate save modes
 
 
 
