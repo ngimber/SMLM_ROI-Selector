@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "SMLM ROI Selector Binder environment ready!"
+echo "To run the application, execute: python smlm_roi_selector.py"
+echo ""
+echo "Note: The tkinter GUI will launch in your terminal environment."
